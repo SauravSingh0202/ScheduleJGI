@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "495350482911",
+    "project_id": "schedulejgi",
+    "storage_bucket": "schedulejgi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495350482911:android:0f55fc585edfb60b88266a",
+        "android_client_info": {
+          "package_name": "com.example.schedulejgi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495350482911-laf28t5gpvlo1mv1jo4rubppauuao6j1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG4pmDq07RdNg3p73xJTkgplIUKsmxpTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495350482911-laf28t5gpvlo1mv1jo4rubppauuao6j1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
